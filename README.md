@@ -6,7 +6,7 @@ Welcome to my GitHub repository showcasing a collection of data science projects
 
 - [About](#about)
 - [Projects](#projects)
-  - [Project 1: Retail Data Analysis]
+  - [Project 1: Fashion store Analysis]
   - [Project 2: Road Accident Severity Prediction]
 - [Skills](#skills)
 - [Tools and Technologies](#tools-and-technologies)
